@@ -3,7 +3,7 @@
 
 - This repo is the working materials for research paper titled: Anomaly Detection on US Election Data via Machine Learning and its Representation of US Infrastructure Vulnerability
 
-# Tech #: 
+# Tech: 
 
 * Python
 * Sklearn
