@@ -3,6 +3,8 @@
 
 - This repo is the working materials for research paper titled: Anomaly Detection on US Election Data via Machine Learning and its Representation of US Infrastructure Vulnerability
 
+- [Click here for interactive app](https://anomaly-detection-app.herokuapp.com)
+
 # To view:
 
 1) Download or clone the two ipynb files to run. 
@@ -13,4 +15,5 @@
 * Python
 * Sklearn
 * Isolation Forest, Decision Tree, Random Forests, KNN
+* Python Dash
 * Plotly.express Graphing Libaries (Scatter-plots, box-plots, and choropleth maps)
