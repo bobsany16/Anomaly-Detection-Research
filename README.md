@@ -8,3 +8,4 @@
 * Python
 * Sklearn
 * Isolation Forest, Decision Tree, Random Forests, KNN
+* Plotly.express Graphing Libaries (Scatter-plots, box-plots, and choropleth maps)
