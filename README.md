@@ -9,6 +9,7 @@
 
 1) Download or clone the two ipynb files to run. 
 2) For the `Presidential-Polls-Analysis-Final.ipynb` file: [View it here](https://nbviewer.jupyter.org/github/bobsany16/Anomaly-Detection-Research/blob/28a06112d28026a11ca6ad40c07ac7405adec0a3/Presidential-Polls-Analysis-Final.ipynb) using Jupyter Notebook Viewer as GitHub only does Limited Rendering for Plotly.express
+3) View the interactive app instead [here](https://anomaly-detection-app.herokuapp.com)
 
 # Tech: 
 
